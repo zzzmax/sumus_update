@@ -1,4 +1,4 @@
-nsfer utility   2R4VeEiGu8CWbZZ9oY2jPUaQ4PNpZNSri2asJYqoWifzk9XLkK 99999999
+transfer utility   2R4VeEiGu8CWbZZ9oY2jPUaQ4PNpZNSri2asJYqoWifzk9XLkK 99999999
 transfer commodity 2R4VeEiGu8CWbZZ9oY2jPUaQ4PNpZNSri2asJYqoWifzk9XLkK 99999999
 //Transaction wallet system gm
 register-system-wallet z8ro4UHBsqLEV2VZfzjfdYzYsMrMCfMtxGWtyLVZRVdp3HbhQ OwnerWallet
