@@ -1,10 +1,11 @@
+//First wallet for gm
 transfer utility   2R4VeEiGu8CWbZZ9oY2jPUaQ4PNpZNSri2asJYqoWifzk9XLkK 99999999
 transfer commodity 2R4VeEiGu8CWbZZ9oY2jPUaQ4PNpZNSri2asJYqoWifzk9XLkK 99999999
 //Transaction wallet system gm
 register-system-wallet z8ro4UHBsqLEV2VZfzjfdYzYsMrMCfMtxGWtyLVZRVdp3HbhQ OwnerWallet
 // register emission wallet for new commodity and utility tokens creation
 register-system-wallet 2qvCw52XQ4LMEM5AeQijDadWpPQjncfHR7pZBGv2rpf63dLK7g EmissionWallet
-//Automatically generated template block genesis from blockchain gm in 100 nodes
+//Automatically generated template block genesis from blockchain gm in 100 nodes 
 //Wallet for node  00000
 transfer utility   2vhrqHwVw7m3xM4mi9JYjTeNTjZGv6MEWa87x3GxHLdsuWdeng 900000
 transfer commodity 2vhrqHwVw7m3xM4mi9JYjTeNTjZGv6MEWa87x3GxHLdsuWdeng 900000
@@ -25,3 +26,28 @@ register-node      bpsQD5hVHR8dEHM3otdR9XkURuQ2DBFLsVxkL3HCEiKb6ptwS 80.240.19.2
 transfer utility   2vcx1kg3exKKBHHCbuA7cF1boH2sEtLUTg29r64zTtQsfAPsu9 900000
 transfer commodity 2vcx1kg3exKKBHHCbuA7cF1boH2sEtLUTg29r64zTtQsfAPsu9 900000
 register-node      2vcx1kg3exKKBHHCbuA7cF1boH2sEtLUTg29r64zTtQsfAPsu9 140.82.34.248
+//Wallet for node  00005
+transfer utility   2TQxCU91wJ6YLuzuLshZDtQAB7MhBSWjJ16YXTMUutENUtdY6G 900000
+transfer commodity 2TQxCU91wJ6YLuzuLshZDtQAB7MhBSWjJ16YXTMUutENUtdY6G 900000
+register-node      2TQxCU91wJ6YLuzuLshZDtQAB7MhBSWjJ16YXTMUutENUtdY6G 207.148.77.7
+//Wallet for node  00006
+transfer utility   2ZUV4UMYGayALPQDW2MH9W6FgbMZWHgmRXfQNdzApkjPm93Tef 900000
+transfer commodity 2ZUV4UMYGayALPQDW2MH9W6FgbMZWHgmRXfQNdzApkjPm93Tef 900000
+register-node      2ZUV4UMYGayALPQDW2MH9W6FgbMZWHgmRXfQNdzApkjPm93Tef 45.76.42.164
+//Wallet for node  00007
+transfer utility   2SQeHfUY4tPFwbKxhCTQ85gzoUAgL41m4ca1QNYWCU4XhsmZ5K 900000
+transfer commodity 2SQeHfUY4tPFwbKxhCTQ85gzoUAgL41m4ca1QNYWCU4XhsmZ5K 900000
+register-node      2SQeHfUY4tPFwbKxhCTQ85gzoUAgL41m4ca1QNYWCU4XhsmZ5K 95.179.152.57
+//Wallet for node  00008
+transfer utility   2L72dzaDWfQYc1MTkfLABPwWwxpCeYVXaGth9cCeanodPJrrWx 900000
+transfer commodity 2L72dzaDWfQYc1MTkfLABPwWwxpCeYVXaGth9cCeanodPJrrWx 900000
+register-node      2L72dzaDWfQYc1MTkfLABPwWwxpCeYVXaGth9cCeanodPJrrWx 104.207.141.254
+//Wallet for node  00009
+transfer utility   RnW4eCiYZ8TLpMUzLVRuK8WfTG6Vgz2ct3qXoFNyYEVHHQmBK 900000
+transfer commodity RnW4eCiYZ8TLpMUzLVRuK8WfTG6Vgz2ct3qXoFNyYEVHHQmBK 900000
+register-node      RnW4eCiYZ8TLpMUzLVRuK8WfTG6Vgz2ct3qXoFNyYEVHHQmBK 45.77.55.143
+//Wallet for node  00010
+transfer utility   7e1G9Sso1zQ8kL9w9cNHhVycpFvWvsMzCPbY4pX7HCTDLhhiz 900000
+transfer commodity 7e1G9Sso1zQ8kL9w9cNHhVycpFvWvsMzCPbY4pX7HCTDLhhiz 900000
+register-node      7e1G9Sso1zQ8kL9w9cNHhVycpFvWvsMzCPbY4pX7HCTDLhhiz 217.69.12.114
+
