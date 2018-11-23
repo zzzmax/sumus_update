@@ -9,83 +9,63 @@ register-system-wallet z8ro4UHBsqLEV2VZfzjfdYzYsMrMCfMtxGWtyLVZRVdp3HbhQ OwnerWa
 register-system-wallet 2qvCw52XQ4LMEM5AeQijDadWpPQjncfHR7pZBGv2rpf63dLK7g EmissionWallet
 //Automatically generated template block genesis from blockchain gm in 100 nodes 
 //Wallet for node  00000
-transfer utility   2vhrqHwVw7m3xM4mi9JYjTeNTjZGv6MEWa87x3GxHLdsuWdeng 900000
-transfer commodity 2vhrqHwVw7m3xM4mi9JYjTeNTjZGv6MEWa87x3GxHLdsuWdeng 900000
+transfer utility   2vhrqHwVw7m3xM4mi9JYjTeNTjZGv6MEWa87x3GxHLdsuWdeng 10005
 register-node      2vhrqHwVw7m3xM4mi9JYjTeNTjZGv6MEWa87x3GxHLdsuWdeng 217.163.29.214
 //Wallet for node  00001
-transfer utility   2knCgrjgVJmdMBDEpUEmkphfcTx4pAxCXQJFeiGtskx862h1WV 900000
-transfer commodity 2knCgrjgVJmdMBDEpUEmkphfcTx4pAxCXQJFeiGtskx862h1WV 900000
+transfer utility   2knCgrjgVJmdMBDEpUEmkphfcTx4pAxCXQJFeiGtskx862h1WV 10005
 register-node      2knCgrjgVJmdMBDEpUEmkphfcTx4pAxCXQJFeiGtskx862h1WV 199.247.2.177
 //Wallet for node  00002
-transfer utility   2FgTkXM9qxshfRwhHeykxvUKoswzANgUZ7aoYbJvyHE5BReLZd 900000
-transfer commodity 2FgTkXM9qxshfRwhHeykxvUKoswzANgUZ7aoYbJvyHE5BReLZd 900000
+transfer utility   2FgTkXM9qxshfRwhHeykxvUKoswzANgUZ7aoYbJvyHE5BReLZd 10005
 register-node      2FgTkXM9qxshfRwhHeykxvUKoswzANgUZ7aoYbJvyHE5BReLZd 45.76.89.160
 //Wallet for node  00003
-transfer utility   bpsQD5hVHR8dEHM3otdR9XkURuQ2DBFLsVxkL3HCEiKb6ptwS 900000
-transfer commodity bpsQD5hVHR8dEHM3otdR9XkURuQ2DBFLsVxkL3HCEiKb6ptwS 900000
+transfer utility   bpsQD5hVHR8dEHM3otdR9XkURuQ2DBFLsVxkL3HCEiKb6ptwS 10005
 register-node      bpsQD5hVHR8dEHM3otdR9XkURuQ2DBFLsVxkL3HCEiKb6ptwS 80.240.19.205
 //Wallet for node  00004
-transfer utility   2vcx1kg3exKKBHHCbuA7cF1boH2sEtLUTg29r64zTtQsfAPsu9 900000
-transfer commodity 2vcx1kg3exKKBHHCbuA7cF1boH2sEtLUTg29r64zTtQsfAPsu9 900000
+transfer utility   2vcx1kg3exKKBHHCbuA7cF1boH2sEtLUTg29r64zTtQsfAPsu9 10005
 register-node      2vcx1kg3exKKBHHCbuA7cF1boH2sEtLUTg29r64zTtQsfAPsu9 140.82.34.248
 //Wallet for node  00005
-transfer utility   2TQxCU91wJ6YLuzuLshZDtQAB7MhBSWjJ16YXTMUutENUtdY6G 900000
-transfer commodity 2TQxCU91wJ6YLuzuLshZDtQAB7MhBSWjJ16YXTMUutENUtdY6G 900000
+transfer utility   2TQxCU91wJ6YLuzuLshZDtQAB7MhBSWjJ16YXTMUutENUtdY6G 10005
 register-node      2TQxCU91wJ6YLuzuLshZDtQAB7MhBSWjJ16YXTMUutENUtdY6G 207.148.77.7
 //Wallet for node  00006
-transfer utility   2ZUV4UMYGayALPQDW2MH9W6FgbMZWHgmRXfQNdzApkjPm93Tef 900000
-transfer commodity 2ZUV4UMYGayALPQDW2MH9W6FgbMZWHgmRXfQNdzApkjPm93Tef 900000
+transfer utility   2ZUV4UMYGayALPQDW2MH9W6FgbMZWHgmRXfQNdzApkjPm93Tef 10005
 register-node      2ZUV4UMYGayALPQDW2MH9W6FgbMZWHgmRXfQNdzApkjPm93Tef 45.76.42.164
 //Wallet for node  00007
-transfer utility   2SQeHfUY4tPFwbKxhCTQ85gzoUAgL41m4ca1QNYWCU4XhsmZ5K 900000
-transfer commodity 2SQeHfUY4tPFwbKxhCTQ85gzoUAgL41m4ca1QNYWCU4XhsmZ5K 900000
+transfer utility   2SQeHfUY4tPFwbKxhCTQ85gzoUAgL41m4ca1QNYWCU4XhsmZ5K 10005
 register-node      2SQeHfUY4tPFwbKxhCTQ85gzoUAgL41m4ca1QNYWCU4XhsmZ5K 95.179.152.57
 //Wallet for node  00008
-transfer utility   2L72dzaDWfQYc1MTkfLABPwWwxpCeYVXaGth9cCeanodPJrrWx 900000
-transfer commodity 2L72dzaDWfQYc1MTkfLABPwWwxpCeYVXaGth9cCeanodPJrrWx 900000
+transfer utility   2L72dzaDWfQYc1MTkfLABPwWwxpCeYVXaGth9cCeanodPJrrWx 10005
 register-node      2L72dzaDWfQYc1MTkfLABPwWwxpCeYVXaGth9cCeanodPJrrWx 104.207.141.254
 //Wallet for node  00009
-transfer utility   RnW4eCiYZ8TLpMUzLVRuK8WfTG6Vgz2ct3qXoFNyYEVHHQmBK 900000
-transfer commodity RnW4eCiYZ8TLpMUzLVRuK8WfTG6Vgz2ct3qXoFNyYEVHHQmBK 900000
+transfer utility   RnW4eCiYZ8TLpMUzLVRuK8WfTG6Vgz2ct3qXoFNyYEVHHQmBK 10005
 register-node      RnW4eCiYZ8TLpMUzLVRuK8WfTG6Vgz2ct3qXoFNyYEVHHQmBK 45.77.55.143
 //Wallet for node  00010
-transfer utility   7e1G9Sso1zQ8kL9w9cNHhVycpFvWvsMzCPbY4pX7HCTDLhhiz 900000
-transfer commodity 7e1G9Sso1zQ8kL9w9cNHhVycpFvWvsMzCPbY4pX7HCTDLhhiz 900000
+transfer utility   7e1G9Sso1zQ8kL9w9cNHhVycpFvWvsMzCPbY4pX7HCTDLhhiz 10005
 register-node      7e1G9Sso1zQ8kL9w9cNHhVycpFvWvsMzCPbY4pX7HCTDLhhiz 217.69.12.114
 //Wallet for node  00011
-transfer utility   MmYK3HmmZF8EggTjxEHgy6ZkH7xzpm1d8mmGm2pS9NTMmeNw7 900000
-transfer commodity MmYK3HmmZF8EggTjxEHgy6ZkH7xzpm1d8mmGm2pS9NTMmeNw7 900000
+transfer utility   MmYK3HmmZF8EggTjxEHgy6ZkH7xzpm1d8mmGm2pS9NTMmeNw7 10005
 register-node      MmYK3HmmZF8EggTjxEHgy6ZkH7xzpm1d8mmGm2pS9NTMmeNw7 95.179.151.38
 //Wallet for node  00013
-transfer utility   9U1R6RCL1ZvFVrgdZJvTnPtHYbYFDPoCTidGQV4ZjgzbHfFpz 900000
-transfer commodity 9U1R6RCL1ZvFVrgdZJvTnPtHYbYFDPoCTidGQV4ZjgzbHfFpz 900000
+transfer utility   9U1R6RCL1ZvFVrgdZJvTnPtHYbYFDPoCTidGQV4ZjgzbHfFpz 10005
 register-node      9U1R6RCL1ZvFVrgdZJvTnPtHYbYFDPoCTidGQV4ZjgzbHfFpz 45.77.229.202
 //Wallet for node  00014
-transfer utility   mx5ukHgADJTpmoC7zkhqVaw6dUGEiWoPFEmKzyrL85NBe3nYm 900000
-transfer commodity mx5ukHgADJTpmoC7zkhqVaw6dUGEiWoPFEmKzyrL85NBe3nYm 900000
+transfer utility   mx5ukHgADJTpmoC7zkhqVaw6dUGEiWoPFEmKzyrL85NBe3nYm 10005
 register-node      mx5ukHgADJTpmoC7zkhqVaw6dUGEiWoPFEmKzyrL85NBe3nYm 108.61.176.123 
 //Wallet for node  00015
-transfer utility   gLF8QjxC4MJu4ejPDndjQBYunLvQsL9z619SbGjrBCq9oHZFD 900000
-transfer commodity gLF8QjxC4MJu4ejPDndjQBYunLvQsL9z619SbGjrBCq9oHZFD 900000
+transfer utility   gLF8QjxC4MJu4ejPDndjQBYunLvQsL9z619SbGjrBCq9oHZFD 10005
 register-node      gLF8QjxC4MJu4ejPDndjQBYunLvQsL9z619SbGjrBCq9oHZFD 199.247.31.191 
 //Wallet for node  00016
-transfer utility   2SJDwEStcz7Bp7oWJd7HSj91FsKbm9jmdNzZWsjiGEfcxMqGqS 900000
-transfer commodity 2SJDwEStcz7Bp7oWJd7HSj91FsKbm9jmdNzZWsjiGEfcxMqGqS 900000
+transfer utility   2SJDwEStcz7Bp7oWJd7HSj91FsKbm9jmdNzZWsjiGEfcxMqGqS 10005
 register-node      2SJDwEStcz7Bp7oWJd7HSj91FsKbm9jmdNzZWsjiGEfcxMqGqS 199.247.20.15 
 //Wallet for node  00017
-transfer utility   2wKv4L3CcEqVL5UmG9HWJJ3gBDRkA2ESUhGygDM9tUiUvGDsgF 900000
-transfer commodity 2wKv4L3CcEqVL5UmG9HWJJ3gBDRkA2ESUhGygDM9tUiUvGDsgF 900000
+transfer utility   2wKv4L3CcEqVL5UmG9HWJJ3gBDRkA2ESUhGygDM9tUiUvGDsgF 10005
 register-node      2wKv4L3CcEqVL5UmG9HWJJ3gBDRkA2ESUhGygDM9tUiUvGDsgF 45.63.99.125
 //Wallet for node  00018
-transfer utility   2oNWRpQycnSTQ49VfTF4dmbFHcRJSDtMNgabd6M8fvZcLirUez 900000
-transfer commodity 2oNWRpQycnSTQ49VfTF4dmbFHcRJSDtMNgabd6M8fvZcLirUez 900000
+transfer utility   2oNWRpQycnSTQ49VfTF4dmbFHcRJSDtMNgabd6M8fvZcLirUez 10005
 register-node      2oNWRpQycnSTQ49VfTF4dmbFHcRJSDtMNgabd6M8fvZcLirUez 149.28.228.85
 //Wallet for node  00019
-transfer utility   iqsVcETW8FQDuvNnAKToV5cQqUUiFKEVvgLmF7BnQrFrYGCrd 900000
-transfer commodity iqsVcETW8FQDuvNnAKToV5cQqUUiFKEVvgLmF7BnQrFrYGCrd 900000
+transfer utility   iqsVcETW8FQDuvNnAKToV5cQqUUiFKEVvgLmF7BnQrFrYGCrd 10005
 register-node      iqsVcETW8FQDuvNnAKToV5cQqUUiFKEVvgLmF7BnQrFrYGCrd 209.250.236.120
 //Wallet for node  00020
-transfer utility   25WB2kcu3PJFWK5JJw7ZUWryp8zg8xRVKLFVjrKgMySCy3FGNs 900000
-transfer commodity 25WB2kcu3PJFWK5JJw7ZUWryp8zg8xRVKLFVjrKgMySCy3FGNs 900000
+transfer utility   25WB2kcu3PJFWK5JJw7ZUWryp8zg8xRVKLFVjrKgMySCy3FGNs 10005
 register-node      25WB2kcu3PJFWK5JJw7ZUWryp8zg8xRVKLFVjrKgMySCy3FGNs 209.250.245.108
 
